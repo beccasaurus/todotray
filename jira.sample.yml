@@ -1,0 +1,5 @@
+--- 
+:username: bob
+:password: secret
+:url: 'http://my-jira-site/'
+:filter: 'Name of Saved Filter'
